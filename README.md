@@ -8,6 +8,7 @@ Previously worked as an R&D Engineer at Exact and Software Engineer at Crowe Pea
 
 - [**Adversarial Autoencoders**](https://github.com/flatala/adverserial-autoencoders-semi-supervised) - PyTorch implementation of an AAE generative mdoel.
 - [**LangGraph Research**](https://github.com/flatala/langgraph-research) - Agentic AI system for grounded literature reviews.
+- [**Dataset Generation**](https://github.com/flatala/dataset-generation-mldl) - Minimal utility for experimental dataset generation.
 - [**Battleships RL**](https://github.com/flatala/battleships-rl) - Working on a reinforcement learning agent for battleships.
 
 #### Hackathons

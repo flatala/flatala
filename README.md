@@ -1,7 +1,7 @@
 ### Hi, I'm Franciszek
 
 Studying MSc Data Science & AI @ TU Delft.   
-Interested in Graph ML, Generative Modeling, and Statistical ML.
+Interested in Graph ML, Generative Modeling, and Statistical ML.  
 Previously worked as an R&D Engineer at Exact and Software Engineer at Crowe Peak.
 
 #### Projects

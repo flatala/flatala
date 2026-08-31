@@ -8,6 +8,7 @@ Previously worked as an R&D Engineer at Exact and Software Engineer at Crowe Pea
 - [**LangGraph Research**](https://github.com/flatala/langgraph-research) - Agentic AI system for grounded literature reviews.
 - [**Dataset Generation**](https://github.com/flatala/dataset-generation-mldl) - Minimal utility for experimental dataset generation.
 - [**SAO via Graph-Kernel Gaussian Process Surrogates**](https://github.com/flatala/sao_graph_sbo) - Repository containing my MSc thesis work.
+- [**A cheeky diff approval extension for PI**](https://github.com/flatala/pi-approve-diffs)
 
 #### Hackathons
 

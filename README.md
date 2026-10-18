@@ -1,5 +1,4 @@
 Interested in Software Engineering, Graph ML, Generative Modeling, and Statistical ML.  
-
 #### Projects
 
 - [**Adversarial Autoencoders**](https://github.com/flatala/adverserial-autoencoders-semi-supervised) - PyTorch implementation of an AAE generative mdoel.

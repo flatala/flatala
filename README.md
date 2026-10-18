@@ -8,6 +8,4 @@ Interested in Software Engineering, Graph ML, Generative Modeling, and Statistic
 - [**SAO via Graph-Kernel Gaussian Process Surrogates**](https://github.com/flatala/sao_graph_sbo) - Repository containing my MSc thesis work.
 - [**A cheeky diff approval extension for PI**](https://github.com/flatala/pi-approve-diffs)
 
-#### Connect
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:github@flatala.com)

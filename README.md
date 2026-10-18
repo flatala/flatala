@@ -10,5 +10,4 @@ Interested in Software Engineering, Graph ML, Generative Modeling, and Statistic
 
 #### Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciszek-lata%C5%82a-19091723a/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:github@flatala.com)

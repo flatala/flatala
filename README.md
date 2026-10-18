@@ -1,4 +1,4 @@
-Interested in Graph ML, Generative Modeling, and Statistical ML.  
+Interested in Software Engineering, Graph ML, Generative Modeling, and Statistical ML.  
 
 #### Projects
 

@@ -1,4 +1,4 @@
-Software | Graph ML | Statistical ML.  
+**Interests:** Software, Graph ML, Statistical ML  
 #### Projects
 
 - [**Adversarial Autoencoders**](https://github.com/flatala/adverserial-autoencoders-semi-supervised) - PyTorch implementation of an AAE generative model.
